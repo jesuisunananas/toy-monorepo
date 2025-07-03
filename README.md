@@ -2,7 +2,7 @@
 toy monorepo to experiment with exposing prometheus metrics and pprof
 
 # install
-brew install prometheus # to locally run prometheus server  
+```brew install prometheus``` # to locally run prometheus server  
 brew install graphviz # to download/view graphs from pprof
 
 # commands
